@@ -1,0 +1,8 @@
+.vagrant
+data
+nginx
+php-fpm
+.env
+sql/*
+sql_dumps/*
+.idea
