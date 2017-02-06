@@ -240,3 +240,7 @@ sudo service cron restart
 
 
 Данный скрипт будет выполнен в среде контейнера PHP-FPM.
+
+
+Домашняя страница проекта:
+[FDEV.BIZ](http://www.fdev.biz/)
