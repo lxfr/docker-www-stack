@@ -243,4 +243,4 @@ sudo service cron restart
 
 
 Домашняя страница проекта:
-[FDEV.BIZ](http://www.fdev.biz/)
+[FDEV.BIZ](http://fdev.biz)
